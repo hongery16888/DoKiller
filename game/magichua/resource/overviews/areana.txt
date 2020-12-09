@@ -1,0 +1,8 @@
+areana
+{
+	material materials/overviews/areana.vmat
+	pos_x -2882
+	pos_y 2848
+	scale 5.500
+}
+
